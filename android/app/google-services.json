@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "540690408466",
+    "project_id": "remortfarming",
+    "storage_bucket": "remortfarming.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540690408466:android:dc7857e7f4d825333324cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540690408466-uv1v08v0sr7hub4bgug4tv5ibc2v3jmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bprHRPqb4OqkoSA2BUGNSk8fdAHQQMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540690408466-uv1v08v0sr7hub4bgug4tv5ibc2v3jmi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540690408466-mk1mnht2l2qh2mgp4du65v3vefomliq4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication8"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
